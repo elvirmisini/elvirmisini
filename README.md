@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elvir Misini
-- 👀 I’m interested in Python, Asp.Net.
+- 👀 I’m interested in Python, NodeJS.
 - 📫 How to reach me --> Email: elvirmisini@gmail.com
 Phone-+383 44 332 523
 
