@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elvir Misini
-- 👀 I’m interested in Python, NodeJS.
+- 👀 I’m interested in NodeJS(NestJs and ExpressJs), Python.
 - 📫 How to reach me --> Email: elvirmisini@gmail.com
 Phone-+383 44 332 523
 
